@@ -29,7 +29,7 @@ A project that allows users and developers to track bugs in various projects.
 ## Installation 
 
     # Clone the repository
-    $ git clone https://github.com/wbrandon25/Django-Bug-Tracker
+    $ git clone https://github.com/maerih/Bug_Tracker
     
     # Navigate to directory
     $ cd .\Django-Bug-Tracker  
